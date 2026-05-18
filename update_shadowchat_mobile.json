@@ -1,0 +1,12 @@
+{
+  "version": "0.5.0",
+  "name": "ShadowChat Online v0.5.0",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.5.0/ShadowChat_v0.5.0.apk",
+  "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
+  "notes": [
+    "Atualizações pelo GitHub verificadas ao iniciar a app.",
+    "Menções com @ nos grupos.",
+    "Botão i mostra participantes do grupo.",
+    "Mantém Storage separada shadowchat-files, respostas, anexos e definições."
+  ]
+}
