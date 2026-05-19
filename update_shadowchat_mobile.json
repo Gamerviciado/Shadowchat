@@ -1,0 +1,17 @@
+{
+  "version": "0.6.5",
+  "name": "ShadowChat Online v0.6.5",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.5/ShadowChat_v0.6.5.apk",
+  "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
+  "notes": [
+    "Corrige piscadelas dentro das conversas ao atualizar mensagens.",
+    "Melhora swipe para responder com arrasto real da mensagem.",
+    "Passa a usar chaves estáveis para manter login/definições entre atualizações.",
+    "Mantém a opção Notificações push ativa após atualizar, quando já estava ativa.",
+    "Adiciona cache local leve de conversas/mensagens para abrir conversas mais rápido.",
+    "Botão voltar do Android passa a voltar ao ecrã anterior em vez de sair logo da app.",
+    "Definições reorganizadas por secções, estilo WhatsApp.",
+    "Adiciona opção de idioma nas Definições.",
+    "Sem SQL novo."
+  ]
+}
