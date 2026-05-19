@@ -1,12 +1,12 @@
 {
-  "version": "0.5.0",
-  "name": "ShadowChat Online v0.5.0",
-  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.5.0/ShadowChat_v0.5.0.apk",
+  "version": "0.6.1",
+  "name": "ShadowChat Online v0.6.1",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.1/ShadowChat_v0.6.1.apk",
   "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
   "notes": [
-    "Atualizações pelo GitHub verificadas ao iniciar a app.",
-    "Menções com @ nos grupos.",
-    "Botão i mostra participantes do grupo.",
-    "Mantém Storage separada shadowchat-files, respostas, anexos e definições."
+    "Corrige erro Gradle no Android Studio causado pelo bloco plugins no android/build.gradle.",
+    "Firebase Google Services passa a ser aplicado pelo método buildscript/classpath compatível com o projeto Capacitor.",
+    "Mantém Push Notifications Android/Firebase da v0.6.0.",
+    "Sem SQL novo."
   ]
 }
