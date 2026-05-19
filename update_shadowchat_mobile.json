@@ -1,17 +1,16 @@
 {
-  "version": "0.6.5",
-  "name": "ShadowChat Online v0.6.5",
-  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.5/ShadowChat_v0.6.5.apk",
+  "version": "0.6.6",
+  "name": "ShadowChat Online v0.6.6",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.6/ShadowChat_v0.6.6.apk",
   "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
   "notes": [
-    "Corrige piscadelas dentro das conversas ao atualizar mensagens.",
-    "Melhora swipe para responder com arrasto real da mensagem.",
-    "Passa a usar chaves estáveis para manter login/definições entre atualizações.",
-    "Mantém a opção Notificações push ativa após atualizar, quando já estava ativa.",
-    "Adiciona cache local leve de conversas/mensagens para abrir conversas mais rápido.",
-    "Botão voltar do Android passa a voltar ao ecrã anterior em vez de sair logo da app.",
-    "Definições reorganizadas por secções, estilo WhatsApp.",
-    "Adiciona opção de idioma nas Definições.",
+    "Redesenha o menu Definições ao estilo WhatsApp.",
+    "Definições passam a ter páginas próprias: Conta, Privacidade, Listas, Conversas, Notificações, Armazenamento e dados, Acessibilidade, Idioma, Ajuda e Atualizações.",
+    "Adiciona traduções base para Português, Inglês, Espanhol e Francês.",
+    "Corrige cache das atualizações: update_shadowchat_mobile.json deixa de ficar preso no Service Worker/WebView.",
+    "Adiciona fonte GitHub API para ler o update JSON sem depender apenas do raw/release.",
+    "Service Worker passa a ignorar ficheiros de update e domínios GitHub.",
+    "Força atualização do Service Worker no arranque.",
     "Sem SQL novo."
   ]
 }
