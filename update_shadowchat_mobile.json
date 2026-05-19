@@ -1,16 +1,15 @@
 {
-  "version": "0.6.6",
-  "name": "ShadowChat Online v0.6.6",
-  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.6/ShadowChat_v0.6.6.apk",
+  "version": "0.6.7",
+  "name": "ShadowChat Online v0.6.7",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v0.6.7/ShadowChat_v0.6.7.apk",
   "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
   "notes": [
-    "Redesenha o menu Definições ao estilo WhatsApp.",
-    "Definições passam a ter páginas próprias: Conta, Privacidade, Listas, Conversas, Notificações, Armazenamento e dados, Acessibilidade, Idioma, Ajuda e Atualizações.",
-    "Adiciona traduções base para Português, Inglês, Espanhol e Francês.",
-    "Corrige cache das atualizações: update_shadowchat_mobile.json deixa de ficar preso no Service Worker/WebView.",
-    "Adiciona fonte GitHub API para ler o update JSON sem depender apenas do raw/release.",
-    "Service Worker passa a ignorar ficheiros de update e domínios GitHub.",
-    "Força atualização do Service Worker no arranque.",
+    "Melhora o menu Definições para respeitar o tema visual da ShadowChat.",
+    "Mantém a estrutura estilo WhatsApp, mas com painel transparente, neon azul e moldura futurista.",
+    "Remove o aspeto verde/WhatsApp dos ícones e troca por ícones/glyphs técnicos alinhados com a app.",
+    "Ajusta perfil, botões, separadores, linhas e subpáginas das Definições ao tema ShadowChat.",
+    "Mantém traduções base da v0.6.6.",
+    "Mantém correção de cache das atualizações da v0.6.6.",
     "Sem SQL novo."
   ]
 }
