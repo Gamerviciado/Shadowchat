@@ -1,15 +1,14 @@
 {
-  "version": "1.0",
-  "name": "ShadowChat Online v1.0",
-  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v1.0/ShadowChat_v1.0.apk",
+  "version": "1.0.4",
+  "name": "ShadowChat Online v1.0.4",
+  "android_apk_url": "https://github.com/Gamerviciado/Shadowchat/releases/download/shadowchat-v1.0.4/ShadowChat_v1.0.4.apk",
   "url": "https://github.com/Gamerviciado/Shadowchat/releases/latest",
   "notes": [
-    "Atualiza o ícone da app/launcher para o ícone escolhido com carapuço no tema ShadowChat.",
-    "Atualiza ícones internos/PWA/Android, mantendo o ícone de loading/splash como estava.",
-    "Melhora a fluidez geral da app com transições mais suaves.",
-    "Adiciona otimizações leves de performance visual em listas, mensagens, painéis e navegação.",
-    "Melhora scroll e resposta tátil em mobile.",
-    "Mantém correções da v0.7.0: traduções alargadas, Definições como menu normal e avatar de grupos pelo criador.",
+    "Repõe o scroll vertical nas conversas.",
+    "Mantém o scroll horizontal bloqueado.",
+    "Mantém a remoção das linhas/padrão do fundo das conversas da v1.0.3.",
+    "Mantém os balões de mensagem dentro da largura do ecrã.",
+    "Mantém o ícone de loading antigo e o novo ícone da app/launcher.",
     "Sem SQL novo nesta versão."
   ]
 }
